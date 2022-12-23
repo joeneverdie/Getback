@@ -1,2 +1,5 @@
-package basic.collection.model;public enum Gender {
+package basic.collection.model;
+
+public enum Gender {
+    MALE, FEMALE
 }
